@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="SNOW Test App Table" language="en" table="x_snc_snow_test_ap_snow_test_app_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>SNOW Test App Table</label>
+            <language>en</language>
+            <name>x_snc_snow_test_ap_snow_test_app_table</name>
+            <plural>SNOW Test App Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-09 20:47:47</sys_created_on>
+            <sys_id>e39ed779051533007f44a59e5c16a2bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>SNOW Test App Table</sys_name>
+            <sys_package display_value="SNOW Test App" source="x_snc_snow_test_ap">4b9ed779051533007f44a59e5c16a264</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SNOW Test App">4b9ed779051533007f44a59e5c16a264</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_snow_test_ap_snow_test_app_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-09 20:47:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
